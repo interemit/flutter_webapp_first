@@ -123,7 +123,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               '$_counter', // über String-Interpolation einfach den Counter ausgeben
-              style: Theme.of(context).textTheme.display1,
+              style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
